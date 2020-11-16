@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Coding\C++\BarebonseServer\BarebonseServer\main.cpp(7,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
